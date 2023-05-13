@@ -2,8 +2,8 @@
 
 Common Lisp URI processing library.
 
-|---------+---------------------------------|
-| source  | git:https://git.kpe.io/puri.git |
-| commit  | 4bbab8                          |
-| systems | puri                            |
-|---------+---------------------------------|
+|---------+----------------------------------------|
+| source  | git:https://github.com/darabi/puri.git |
+| commit  | d1cafaa                                |
+| systems | puri                                   |
+|---------+----------------------------------------|
