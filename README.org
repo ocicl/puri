@@ -3,7 +3,7 @@
 Common Lisp URI processing library.
 
 |---------+---------------------------------|
-| source  | git:https://git.kpe.ui/puri.git |
+| source  | git:https://git.kpe.io/puri.git |
 | commit  | 4bbab8                          |
 | systems | puri                            |
 |---------+---------------------------------|
