@@ -3,7 +3,7 @@
 Common Lisp URI processing library.
 
 |---------+----------------------------------------------------------------|
-| file    | https://github.com/llibra/puri/archive/refs/tags/v1.5.5.tar.gz |
+| source  | https://github.com/llibra/puri/archive/refs/tags/v1.5.5.tar.gz |
 | version | 1.5.5                                                          |
 | systems | puri                                                           |
 |---------+----------------------------------------------------------------|
