@@ -2,9 +2,9 @@
 
 Common Lisp URI processing library.
 
-|---------+----------------------------------------------------------------|
-| source  | https://github.com/llibra/puri/archive/refs/tags/v1.5.5.tar.gz |
-| version | 1.5.5                                                          |
-| systems | puri                                                           |
-|---------+----------------------------------------------------------------|
+|---------+------------------------------------|
+| source  | https://github.com/llibra/puri.git |
+| commit  | 00000000                           |
+| systems | puri                               |
+|---------+------------------------------------|
  
