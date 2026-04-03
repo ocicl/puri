@@ -2,9 +2,10 @@
 
 Common Lisp URI processing library.
 
-|---------+------------------------------------|
-| source  | https://github.com/llibra/puri.git |
-| commit  | c0cb892                           |
-| systems | puri                               |
-|---------+------------------------------------|
+|---------+----------------------------------------|
+| source  | git:https://github.com/llibra/puri.git |
+| commit  | 00000000                               |
+| systems | puri                                   |
+|---------+----------------------------------------|
+
  
