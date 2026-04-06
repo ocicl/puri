@@ -4,6 +4,6 @@ Common Lisp URI processing library.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/macrologist/puri.git      |
-| commit  | 0000000                                          |
+| commit  | 4bbab89                                          |
 | systems | puri                                             |
 |---------+--------------------------------------------------|
